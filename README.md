@@ -10,7 +10,7 @@ This project uses a Convolutional Neural Network (CNN) to classify images of dog
 ✔ OpenCV & NumPy
 ✔ Matplotlib (for visualization)
 
-Model Architecture
+# Model Architecture
 The CNN model consists of:
 1. Two Convolutional Layers with ReLU activation
 2. Max Pooling Layers to reduce spatial dimensions
